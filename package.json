@@ -1,0 +1,9 @@
+{
+  "name": "css3-tutorials",
+  "version": "0.0.1",
+  "description": "Tutorials from 'CSS3: The Missing Manual'",
+  "main": "tutorials.js",
+  "dependencies": {
+    "express": "~3.0.4"
+  }
+}
